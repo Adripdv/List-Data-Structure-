@@ -12,6 +12,7 @@
 # list = ['oranges', 'pear', 'banana', 'banana'] # Not unique elements
 # list = [10, 'hello', 5.0] # Different Data types
 # print(list)
+
 ''' List indexing'''
 
 # fruits = ['oranges', 'pear', 'banana', 'banana']
@@ -24,6 +25,7 @@
 
 # shopping = ['oranges', 'pear', 'banana', 'banana', ['apple','kiwi','lemon'], ('kale','carrot'),['milk','juice']]
 # print(shopping[6][1])
+
 ''' How to slice lists in Python '''
 
 # fruits = ['oranges', 'pear', 'banana', 'banana', ['apple','kiwi','lemon']]
@@ -41,6 +43,7 @@
 # list = ['box', 'star', 'metals', 'paper']
 # print(list[:-2]) # Remove last two positioned items
 # print(list[-2:]) # Still do not understand
+
 ''' Add elements to a list '''
 
 # fruits = ['oranges', 'pear', 'banana', 'banana', 'apple', 'kiwi', 'lemon']
@@ -49,6 +52,7 @@
 # fruits[1:4] = 'Mandarins', 'Peaches', 'Plums'
 # fruits.append('limes') # Add items to the list
 # print(fruits)
+
 ''' Remove or Delete list items '''
 
 # fruits = ['oranges', 'pear', 'banana', 'banana', 'apple', 'kiwi', 'lemon']
@@ -109,7 +113,7 @@
 # result ['name'] = 'Adriana'
 # print(result)
 
-#===================================== Same as above importing modules ==========================
+#========= Same as above importing modules ==========================
 
 # from collections import Counter
 
@@ -119,8 +123,8 @@
 
 ''' List Membership Test '''
 
-fruits = ['orange', 'apple', 'pear', 'banana', 'pear', 'pear']
+# fruits = ['orange', 'apple', 'pear', 'banana', 'pear', 'pear']
 
-print('orange' in fruits)
-print('mango' not in fruits)
+# print('orange' in fruits)
+# print('mango' not in fruits)
 
