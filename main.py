@@ -13,6 +13,9 @@
 # list = [10, 'hello', 5.0] # Different Data types
 # print(list)
 
+# awesomelist = list(('Adriana', 'Francisco', 'Jorge'))
+# print(type(awesomelist))
+
 ''' List indexing'''
 
 # fruits = ['oranges', 'pear', 'banana', 'banana']
